@@ -1,0 +1,11 @@
+C:\Users\Erik\source\repos\VendaProduto\VendaProduto\bin\Debug\netcoreapp3.1\VendaProduto.exe
+C:\Users\Erik\source\repos\VendaProduto\VendaProduto\bin\Debug\netcoreapp3.1\VendaProduto.deps.json
+C:\Users\Erik\source\repos\VendaProduto\VendaProduto\bin\Debug\netcoreapp3.1\VendaProduto.runtimeconfig.json
+C:\Users\Erik\source\repos\VendaProduto\VendaProduto\bin\Debug\netcoreapp3.1\VendaProduto.runtimeconfig.dev.json
+C:\Users\Erik\source\repos\VendaProduto\VendaProduto\bin\Debug\netcoreapp3.1\VendaProduto.dll
+C:\Users\Erik\source\repos\VendaProduto\VendaProduto\bin\Debug\netcoreapp3.1\VendaProduto.pdb
+C:\Users\Erik\source\repos\VendaProduto\VendaProduto\obj\Debug\netcoreapp3.1\VendaProduto.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\VendaProduto\VendaProduto\obj\Debug\netcoreapp3.1\VendaProduto.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\VendaProduto\VendaProduto\obj\Debug\netcoreapp3.1\VendaProduto.AssemblyInfo.cs
+C:\Users\Erik\source\repos\VendaProduto\VendaProduto\obj\Debug\netcoreapp3.1\VendaProduto.dll
+C:\Users\Erik\source\repos\VendaProduto\VendaProduto\obj\Debug\netcoreapp3.1\VendaProduto.pdb
